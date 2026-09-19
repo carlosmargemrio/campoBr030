@@ -1,0 +1,368 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260918_085713.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260918_085713",
+        "arquivo": "TimePhoto_20260918_085713.jpg",
+        "caminho": "IMGS/TimePhoto_20260918_085713.jpg",
+        "lat": -14.21289,
+        "lon": -39.05822638888888,
+        "latlon": "-14.212890, -39.058226",
+        "utm": "24L 493718 8428728",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 493718,
+        "utm_northing": 8428728,
+        "utm_hemisphere": "S",
+        "data": "18/09/2026",
+        "horario": "08:57",
+        "legenda": "Sondagem prospectiva mecanizada para verificação da continuidade e profundidade do substrato rochoso",
+        "hash_md5": null,
+        "hash_sha256": "3f00f37160cd9cb8e362fb334726196110b3b66699340e431f3bb07557f088ff",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.05822638888888,
+          -14.21289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260918_090140.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260918_090140",
+        "arquivo": "TimePhoto_20260918_090140.jpg",
+        "caminho": "IMGS/TimePhoto_20260918_090140.jpg",
+        "lat": -14.212935,
+        "lon": -39.058229999999995,
+        "latlon": "-14.212935, -39.058230",
+        "utm": "24L 493718 8428723",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 493718,
+        "utm_northing": 8428723,
+        "utm_hemisphere": "S",
+        "data": "18/09/2026",
+        "horario": "09:01",
+        "legenda": "Detalhe do perfil exposto durante a sondagem prospectiva, evidenciando os níveis subsuperficiais e o material de alteração",
+        "hash_md5": null,
+        "hash_sha256": "407e08f19ad42c118618d32351f35f61e27501dce48627208fdbe65af025b0d7",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.058229999999995,
+          -14.212935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260918_151408.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260918_151408",
+        "arquivo": "TimePhoto_20260918_151408.jpg",
+        "caminho": "IMGS/TimePhoto_20260918_151408.jpg",
+        "lat": -14.218831388888889,
+        "lon": -39.08549805555556,
+        "latlon": "-14.218831, -39.085498",
+        "utm": "24L 490776 8428070",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 490776,
+        "utm_northing": 8428070,
+        "utm_hemisphere": "S",
+        "data": "18/09/2026",
+        "horario": "15:14",
+        "legenda": "Corte de terraplenagem na estaca 1559, com remoção e carregamento mecanizado do solo para conformação do greide da rodovia",
+        "hash_md5": null,
+        "hash_sha256": "cb3244f1625061790fa80af5e30e48239d27b2c671b94b64df6645886a3233ad",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.08549805555556,
+          -14.218831388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260918_151805.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260918_151805",
+        "arquivo": "TimePhoto_20260918_151805.jpg",
+        "caminho": "IMGS/TimePhoto_20260918_151805.jpg",
+        "lat": -14.218851666666668,
+        "lon": -39.08548166666667,
+        "latlon": "-14.218852, -39.085482",
+        "utm": "24L 490778 8428068",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 490778,
+        "utm_northing": 8428068,
+        "utm_hemisphere": "S",
+        "data": "18/09/2026",
+        "horario": "15:18",
+        "legenda": "Triagem visual da superfície recém-exposta durante o corte de terraplenagem na estaca 1559",
+        "hash_md5": null,
+        "hash_sha256": "9ac533cebfaabf5041c3a962fcc6368854b96295801196deab03038232acbe8c",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.08548166666667,
+          -14.218851666666668
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MU8D7BOG",
+    "dataCampo": "2026-09-18",
+    "horaIni": "07:33",
+    "horaFim": "16:44",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Rodovia Br 030/Ba: Entroncamento Ba 001 - Maraú – Ba",
+    "localidade": "Maraú - BA",
+    "empresaExecutora": "HAS CONSULTORIA",
+    "fichaNumero": "1",
+    "coordenadasTexto": null,
+    "coordCampo": "Carlos Rocha",
+    "arqResp": "Carlos Rocha",
+    "cargoResponsavel": "Arqueólogo",
+    "trecho": "Monitoramento arqueológico estacas 1767, 1776 e 1559",
+    "tipoIntervencao": "Outros",
+    "tipoIntervencaoOutro": "Limpeza de húmus, sondagens geológicas e corte/rebaixamento de solo natural",
+    "tipoAcao": "Limpeza de húmus, sondagens geológicas e corte/rebaixamento de solo natural",
+    "clima": "Ensolarado",
+    "climaOutro": "Com nuvens chuvosas no período da tarde",
+    "vegetacao": null,
+    "relevo": null,
+    "solo": "Argiloso / Argilo-arenoso",
+    "granulometria": "Média",
+    "vestigios": "NAO",
+    "tipoEvidencia": null,
+    "materiaisEncontrados": null,
+    "tipoMaterial": null,
+    "tipoMaterialOutro": null,
+    "coleta": "NAO",
+    "amostrasAnalise": null,
+    "fotografias": null,
+    "croquis": null,
+    "houveAlteracaoContexto": "NAO",
+    "medidasAdotadas": null,
+    "interrupcaoAtividade": "NAO",
+    "motivoInterrupcao": null,
+    "observacoesRecomendacoes": null,
+    "observacoesExtras": null,
+    "desc": "As atividades de monitoramento arqueológico concentraram-se inicialmente nas imediações da área destinada à pedreira, onde foram acompanhadas a limpeza da camada húmica e a execução de sondagens prospectivas mecanizadas no trecho compreendido entre as estacas 1767 e 1776. As intervenções promoveram a exposição progressiva do perfil pedológico e do material de alteração subsuperficial, permitindo a inspeção direta das paredes, do fundo das escavações e dos sedimentos removidos, com atenção à identificação de materiais, feições ou alterações sedimentares potencialmente relacionadas à ocupação humana pretérita. As sondagens tiveram como finalidade operacional verificar a continuidade, profundidade e extensão do substrato rochoso ao longo do trecho investigado.\nEm uma segunda frente (no período vespertino), situada na estaca 1559, foi acompanhado o corte de terraplenagem executado mecanicamente para rebaixamento do terreno e conformação do greide previsto para a rodovia. A atividade envolveu escavação, remoção e carregamento sucessivo do solo, produzindo ampla exposição das superfícies recém-revolvidas e dos níveis subsuperficiais. O acompanhamento arqueológico ocorreu concomitantemente ao avanço da escavação, mediante inspeção visual sistemática do material removido, das superfícies abertas pela máquina e dos perfis resultantes do corte.\nO resultado foi negativo para evidências arqueológicas nas áreas efetivamente acompanhadas.",
+    "obs": null,
+    "modeloDocx": "HAS_ACOMPANHAMENTO",
+    "status": "COMPLETED",
+    "tradagens": [],
+    "imagens_sem_gps": []
+  },
+  "app_restore": {
+    "kind": "FichaCampoWebView_HAS_RECORD_BACKUP",
+    "backupVersion": 1,
+    "appVersion": "v24",
+    "exportedAt": "2026-09-19T13:04:05.160Z",
+    "dbName": "fichacampo_v_final_corrigido",
+    "record": {
+      "id": "MU8D7BOG",
+      "status": "COMPLETED",
+      "createdAt": 1789820986857,
+      "updatedAt": 1789823038379,
+      "dataCampo": "2026-09-18",
+      "horaIni": "07:33",
+      "horaFim": "16:44",
+      "atividade": "Monitoramento",
+      "categoria": "ADA",
+      "projeto": "Rodovia Br 030/Ba: Entroncamento Ba 001 - Maraú – Ba",
+      "localidade": "Maraú - BA",
+      "empresaExecutora": "HAS CONSULTORIA",
+      "fichaNumero": "1",
+      "coordenadasTexto": "",
+      "coordCampo": "Carlos Rocha",
+      "arqResp": "Carlos Rocha",
+      "cargoResponsavel": "Arqueólogo",
+      "tipoAcao": "Limpeza de húmus, sondagens geológicas e corte/rebaixamento de solo natural",
+      "trecho": "Monitoramento arqueológico estacas 1767, 1776 e 1559",
+      "tipoIntervencao": "Outros",
+      "tipoIntervencaoOutro": "Limpeza de húmus, sondagens geológicas e corte/rebaixamento de solo natural",
+      "clima": "Ensolarado",
+      "climaOutro": "Com nuvens chuvosas no período da tarde",
+      "vegetacao": "",
+      "relevo": "",
+      "solo": "Argiloso / Argilo-arenoso",
+      "granulometria": "Média",
+      "vestigios": "NAO",
+      "tipoEvidencia": "",
+      "materiaisEncontrados": "",
+      "tipoMaterial": "",
+      "tipoMaterialOutro": "",
+      "coleta": "NAO",
+      "amostrasAnalise": "",
+      "fotografias": "",
+      "croquis": "",
+      "houveAlteracaoContexto": "NAO",
+      "medidasAdotadas": "",
+      "interrupcaoAtividade": "NAO",
+      "motivoInterrupcao": "",
+      "observacoesRecomendacoes": "",
+      "observacoesExtras": "",
+      "desc": "As atividades de monitoramento arqueológico concentraram-se inicialmente nas imediações da área destinada à pedreira, onde foram acompanhadas a limpeza da camada húmica e a execução de sondagens prospectivas mecanizadas no trecho compreendido entre as estacas 1767 e 1776. As intervenções promoveram a exposição progressiva do perfil pedológico e do material de alteração subsuperficial, permitindo a inspeção direta das paredes, do fundo das escavações e dos sedimentos removidos, com atenção à identificação de materiais, feições ou alterações sedimentares potencialmente relacionadas à ocupação humana pretérita. As sondagens tiveram como finalidade operacional verificar a continuidade, profundidade e extensão do substrato rochoso ao longo do trecho investigado.\nEm uma segunda frente (no período vespertino), situada na estaca 1559, foi acompanhado o corte de terraplenagem executado mecanicamente para rebaixamento do terreno e conformação do greide previsto para a rodovia. A atividade envolveu escavação, remoção e carregamento sucessivo do solo, produzindo ampla exposição das superfícies recém-revolvidas e dos níveis subsuperficiais. O acompanhamento arqueológico ocorreu concomitantemente ao avanço da escavação, mediante inspeção visual sistemática do material removido, das superfícies abertas pela máquina e dos perfis resultantes do corte.\nO resultado foi negativo para evidências arqueológicas nas áreas efetivamente acompanhadas.",
+      "obs": "",
+      "modeloDocx": "HAS_ACOMPANHAMENTO",
+      "tradagens": []
+    },
+    "images": [
+      {
+        "key": "MU8D7BOG_1789821434910_c3vcc0nl1c",
+        "recordId": "MU8D7BOG",
+        "filename": "TimePhoto_20260918_085713.jpg",
+        "dt": "2026:09:18 08:57:13",
+        "coords": [
+          -39.05822638888888,
+          -14.21289
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 493718,
+          "northing": 8428728
+        },
+        "dir": null,
+        "caption": "Sondagem prospectiva mecanizada para verificação da continuidade e profundidade do substrato rochoso",
+        "created": 1789821434910,
+        "hashArquivo_sha256": "3f00f37160cd9cb8e362fb334726196110b3b66699340e431f3bb07557f088ff",
+        "gpsFonte": "EXIF_JS",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": null,
+        "exifNativeModoLeitura": null,
+        "exifNativeData": null,
+        "exifNativeLat": null,
+        "exifNativeLon": null
+      },
+      {
+        "key": "MU8D7BOG_1789821434928_z34s779hdod",
+        "recordId": "MU8D7BOG",
+        "filename": "TimePhoto_20260918_090140.jpg",
+        "dt": "2026:09:18 09:01:40",
+        "coords": [
+          -39.058229999999995,
+          -14.212935
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 493718,
+          "northing": 8428723
+        },
+        "dir": null,
+        "caption": "Detalhe do perfil exposto durante a sondagem prospectiva, evidenciando os níveis subsuperficiais e o material de alteração",
+        "created": 1789821434928,
+        "hashArquivo_sha256": "407e08f19ad42c118618d32351f35f61e27501dce48627208fdbe65af025b0d7",
+        "gpsFonte": "EXIF_JS",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": null,
+        "exifNativeModoLeitura": null,
+        "exifNativeData": null,
+        "exifNativeLat": null,
+        "exifNativeLon": null
+      },
+      {
+        "key": "MU8D7BOG_1789821434942_j1hia9i22wj",
+        "recordId": "MU8D7BOG",
+        "filename": "TimePhoto_20260918_151408.jpg",
+        "dt": "2026:09:18 15:14:08",
+        "coords": [
+          -39.08549805555556,
+          -14.218831388888889
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 490776,
+          "northing": 8428070
+        },
+        "dir": null,
+        "caption": "Corte de terraplenagem na estaca 1559, com remoção e carregamento mecanizado do solo para conformação do greide da rodovia",
+        "created": 1789821434942,
+        "hashArquivo_sha256": "cb3244f1625061790fa80af5e30e48239d27b2c671b94b64df6645886a3233ad",
+        "gpsFonte": "EXIF_JS",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": null,
+        "exifNativeModoLeitura": null,
+        "exifNativeData": null,
+        "exifNativeLat": null,
+        "exifNativeLon": null
+      },
+      {
+        "key": "MU8D7BOG_1789821434958_ro72c0g96ag",
+        "recordId": "MU8D7BOG",
+        "filename": "TimePhoto_20260918_151805.jpg",
+        "dt": "2026:09:18 15:18:05",
+        "coords": [
+          -39.08548166666667,
+          -14.218851666666668
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 490778,
+          "northing": 8428068
+        },
+        "dir": null,
+        "caption": "Triagem visual da superfície recém-exposta durante o corte de terraplenagem na estaca 1559",
+        "created": 1789821434958,
+        "hashArquivo_sha256": "9ac533cebfaabf5041c3a962fcc6368854b96295801196deab03038232acbe8c",
+        "gpsFonte": "EXIF_JS",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": null,
+        "exifNativeModoLeitura": null,
+        "exifNativeData": null,
+        "exifNativeLat": null,
+        "exifNativeLon": null
+      }
+    ]
+  }
+}
