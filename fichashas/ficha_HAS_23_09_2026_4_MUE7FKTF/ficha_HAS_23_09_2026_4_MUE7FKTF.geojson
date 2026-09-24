@@ -1,0 +1,368 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260923_083304.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260923_083304",
+        "arquivo": "TimePhoto_20260923_083304.jpg",
+        "caminho": "IMGS/TimePhoto_20260923_083304.jpg",
+        "lat": -14.221109722222222,
+        "lon": -39.09276166666667,
+        "latlon": "-14.221110, -39.092762",
+        "utm": "24L 489992 8427818",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 489992,
+        "utm_northing": 8427818,
+        "utm_hemisphere": "S",
+        "data": "23/09/2026",
+        "horario": "08:33",
+        "legenda": "Inspeção arqueológica dos sedimentos recém-expostos durante o avanço do corte em cota inferior, no setor oeste do trecho monitorado",
+        "hash_md5": null,
+        "hash_sha256": "0a9992040248775e947fcde41ac974bdb864bc3011ab1e6e8827a48bd78aa170",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.09276166666667,
+          -14.221109722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260923_083756.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260923_083756",
+        "arquivo": "TimePhoto_20260923_083756.jpg",
+        "caminho": "IMGS/TimePhoto_20260923_083756.jpg",
+        "lat": -14.220451666666667,
+        "lon": -39.09234305555556,
+        "latlon": "-14.220452, -39.092343",
+        "utm": "24L 490037 8427891",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 490037,
+        "utm_northing": 8427891,
+        "utm_hemisphere": "S",
+        "data": "23/09/2026",
+        "horario": "08:37",
+        "legenda": "Regularização e acabamento da superfície do talude com motoniveladora após o avanço da escavação",
+        "hash_md5": null,
+        "hash_sha256": "c08aaf85342e81a4a09bc52595d18dbb173571ccecbfc6ad9218f06ce94dba0d",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.09234305555556,
+          -14.220451666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260923_095516.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260923_095516",
+        "arquivo": "TimePhoto_20260923_095516.jpg",
+        "caminho": "IMGS/TimePhoto_20260923_095516.jpg",
+        "lat": -14.221361666666667,
+        "lon": -39.09283,
+        "latlon": "-14.221362, -39.092830",
+        "utm": "24L 489985 8427790",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 489985,
+        "utm_northing": 8427790,
+        "utm_hemisphere": "S",
+        "data": "23/09/2026",
+        "horario": "09:55",
+        "legenda": "Continuidade dos serviços de corte e conformação de talude, com retirada mecanizada e carregamento do material escavado",
+        "hash_md5": null,
+        "hash_sha256": "7e8965731b438f143a3f83df04655886155e416028a233167a9f6a1957934fd0",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.09283,
+          -14.221361666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260923_163654.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260923_163654",
+        "arquivo": "TimePhoto_20260923_163654.jpg",
+        "caminho": "IMGS/TimePhoto_20260923_163654.jpg",
+        "lat": -14.222716666666667,
+        "lon": -39.093035,
+        "latlon": "-14.222717, -39.093035",
+        "utm": "24L 489963 8427640",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 489963,
+        "utm_northing": 8427640,
+        "utm_hemisphere": "S",
+        "data": "23/09/2026",
+        "horario": "16:36",
+        "legenda": "Detalhe da retirada e carregamento dos níveis subsuperficiais mobilizados durante o aprofundamento da frente de corte",
+        "hash_md5": null,
+        "hash_sha256": "23ce1c6c6e75b133856557502263993602fbf81c21185e67f8c89599d2524d12",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.093035,
+          -14.222716666666667
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MUE7FKTF",
+    "dataCampo": "2026-09-23",
+    "horaIni": "07:55",
+    "horaFim": "16:45",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Rodovia Br 030/Ba: Entroncamento Ba 001 - Maraú – Ba",
+    "localidade": "Maraú - BA",
+    "empresaExecutora": "HAS CONSULTORIA",
+    "fichaNumero": "4",
+    "coordenadasTexto": null,
+    "coordCampo": "Carlos Rocha",
+    "arqResp": "Carlos Rocha",
+    "cargoResponsavel": "Arqueólogo",
+    "trecho": "Estacas 1550 a 1567",
+    "tipoIntervencao": "Outros",
+    "tipoIntervencaoOutro": "corte e conformação de talude",
+    "tipoAcao": "corte e conformação de talude",
+    "clima": "Ensolarado",
+    "climaOutro": null,
+    "vegetacao": null,
+    "relevo": null,
+    "solo": "Argiloso / Argilo-arenoso",
+    "granulometria": "Média",
+    "vestigios": "NAO",
+    "tipoEvidencia": null,
+    "materiaisEncontrados": null,
+    "tipoMaterial": null,
+    "tipoMaterialOutro": null,
+    "coleta": "NAO",
+    "amostrasAnalise": null,
+    "fotografias": null,
+    "croquis": null,
+    "houveAlteracaoContexto": null,
+    "medidasAdotadas": null,
+    "interrupcaoAtividade": null,
+    "motivoInterrupcao": null,
+    "observacoesRecomendacoes": null,
+    "observacoesExtras": null,
+    "desc": "O acompanhamento arqueológico concentrou-se na continuidade dos serviços de corte e conformação de talude no setor oeste das estacas 1550 e 1567, onde o avanço mecanizado da escavação ocorreu em cotas sucessivamente inferiores, incidindo sobre volumes de solo ainda não expostos pelas intervenções anteriores e promovendo, desse modo, a abertura contínua de novas superfícies e níveis subsuperficiais passíveis de inspeção; paralelamente à retirada do material pela escavadeira hidráulica e ao seu carregamento para transporte, procedeu-se à regularização da geometria do corte e ao acabamento da superfície do talude com motoniveladora, mantendo-se o acompanhamento arqueológico mediante observação sistemática das áreas recém-expostas, dos perfis formados e dos sedimentos mobilizados ao longo da operação. No setor leste, entre as estacas 1565 e 1567, também foi acompanhada a supressão vegetal destinada à preparação de nova frente de intervenção, ampliando a área disponível para as etapas subsequentes dos serviços de terraplenagem.\n\n",
+    "obs": null,
+    "modeloDocx": "HAS_ACOMPANHAMENTO",
+    "status": "COMPLETED",
+    "tradagens": [],
+    "imagens_sem_gps": []
+  },
+  "app_restore": {
+    "kind": "FichaCampoWebView_HAS_RECORD_BACKUP",
+    "backupVersion": 1,
+    "appVersion": "v24",
+    "exportedAt": "2026-09-24T22:11:06.121Z",
+    "dbName": "fichacampo_v_final_corrigido",
+    "record": {
+      "id": "MUE7FKTF",
+      "status": "COMPLETED",
+      "createdAt": 1790174090801,
+      "updatedAt": 1790287846684,
+      "dataCampo": "2026-09-23",
+      "horaIni": "07:55",
+      "horaFim": "16:45",
+      "atividade": "Monitoramento",
+      "categoria": "ADA",
+      "projeto": "Rodovia Br 030/Ba: Entroncamento Ba 001 - Maraú – Ba",
+      "localidade": "Maraú - BA",
+      "empresaExecutora": "HAS CONSULTORIA",
+      "fichaNumero": "4",
+      "coordenadasTexto": "",
+      "coordCampo": "Carlos Rocha",
+      "arqResp": "Carlos Rocha",
+      "cargoResponsavel": "Arqueólogo",
+      "tipoAcao": "corte e conformação de talude",
+      "trecho": "Estacas 1550 a 1567",
+      "tipoIntervencao": "Outros",
+      "tipoIntervencaoOutro": "corte e conformação de talude",
+      "clima": "Ensolarado",
+      "climaOutro": "",
+      "vegetacao": "",
+      "relevo": "",
+      "solo": "Argiloso / Argilo-arenoso",
+      "granulometria": "Média",
+      "vestigios": "NAO",
+      "tipoEvidencia": "",
+      "materiaisEncontrados": "",
+      "tipoMaterial": "",
+      "tipoMaterialOutro": "",
+      "coleta": "NAO",
+      "amostrasAnalise": "",
+      "fotografias": "",
+      "croquis": "",
+      "houveAlteracaoContexto": "",
+      "medidasAdotadas": "",
+      "interrupcaoAtividade": "",
+      "motivoInterrupcao": "",
+      "observacoesRecomendacoes": "",
+      "observacoesExtras": "",
+      "desc": "O acompanhamento arqueológico concentrou-se na continuidade dos serviços de corte e conformação de talude no setor oeste das estacas 1550 e 1567, onde o avanço mecanizado da escavação ocorreu em cotas sucessivamente inferiores, incidindo sobre volumes de solo ainda não expostos pelas intervenções anteriores e promovendo, desse modo, a abertura contínua de novas superfícies e níveis subsuperficiais passíveis de inspeção; paralelamente à retirada do material pela escavadeira hidráulica e ao seu carregamento para transporte, procedeu-se à regularização da geometria do corte e ao acabamento da superfície do talude com motoniveladora, mantendo-se o acompanhamento arqueológico mediante observação sistemática das áreas recém-expostas, dos perfis formados e dos sedimentos mobilizados ao longo da operação. No setor leste, entre as estacas 1565 e 1567, também foi acompanhada a supressão vegetal destinada à preparação de nova frente de intervenção, ampliando a área disponível para as etapas subsequentes dos serviços de terraplenagem.\n\n",
+      "obs": "",
+      "modeloDocx": "HAS_ACOMPANHAMENTO",
+      "tradagens": []
+    },
+    "images": [
+      {
+        "key": "MUE7FKTF_1790287197153_r4chl1a1lri",
+        "recordId": "MUE7FKTF",
+        "filename": "TimePhoto_20260923_083304.jpg",
+        "dt": "2026:09:23 08:33:04",
+        "coords": [
+          -39.09276166666667,
+          -14.221109722222222
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 489992,
+          "northing": 8427818
+        },
+        "dir": null,
+        "caption": "Inspeção arqueológica dos sedimentos recém-expostos durante o avanço do corte em cota inferior, no setor oeste do trecho monitorado",
+        "created": 1790287197153,
+        "hashArquivo_sha256": "0a9992040248775e947fcde41ac974bdb864bc3011ab1e6e8827a48bd78aa170",
+        "gpsFonte": "ANDROID_EXIF_NATIVE",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": "GPS_OK",
+        "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "exifNativeData": "2026:09:23 08:33:04",
+        "exifNativeLat": -14.221109722222222,
+        "exifNativeLon": -39.09276166666667
+      },
+      {
+        "key": "MUE7FKTF_1790287197563_76mpxfl1e8",
+        "recordId": "MUE7FKTF",
+        "filename": "TimePhoto_20260923_083756.jpg",
+        "dt": "2026:09:23 08:37:56",
+        "coords": [
+          -39.09234305555556,
+          -14.220451666666667
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 490037,
+          "northing": 8427891
+        },
+        "dir": null,
+        "caption": "Regularização e acabamento da superfície do talude com motoniveladora após o avanço da escavação",
+        "created": 1790287197563,
+        "hashArquivo_sha256": "c08aaf85342e81a4a09bc52595d18dbb173571ccecbfc6ad9218f06ce94dba0d",
+        "gpsFonte": "ANDROID_EXIF_NATIVE",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": "GPS_OK",
+        "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "exifNativeData": "2026:09:23 08:37:56",
+        "exifNativeLat": -14.220451666666667,
+        "exifNativeLon": -39.09234305555556
+      },
+      {
+        "key": "MUE7FKTF_1790287197956_amim7z1rlr9",
+        "recordId": "MUE7FKTF",
+        "filename": "TimePhoto_20260923_095516.jpg",
+        "dt": "2026:09:23 09:55:16",
+        "coords": [
+          -39.09283,
+          -14.221361666666667
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 489985,
+          "northing": 8427790
+        },
+        "dir": null,
+        "caption": "Continuidade dos serviços de corte e conformação de talude, com retirada mecanizada e carregamento do material escavado",
+        "created": 1790287197956,
+        "hashArquivo_sha256": "7e8965731b438f143a3f83df04655886155e416028a233167a9f6a1957934fd0",
+        "gpsFonte": "ANDROID_EXIF_NATIVE",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": "GPS_OK",
+        "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "exifNativeData": "2026:09:23 09:55:16",
+        "exifNativeLat": -14.221361666666667,
+        "exifNativeLon": -39.09283
+      },
+      {
+        "key": "MUE7FKTF_1790287198412_0dklnrpdejsv",
+        "recordId": "MUE7FKTF",
+        "filename": "TimePhoto_20260923_163654.jpg",
+        "dt": "2026:09:23 16:36:54",
+        "coords": [
+          -39.093035,
+          -14.222716666666667
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 489963,
+          "northing": 8427640
+        },
+        "dir": null,
+        "caption": "Detalhe da retirada e carregamento dos níveis subsuperficiais mobilizados durante o aprofundamento da frente de corte",
+        "created": 1790287198412,
+        "hashArquivo_sha256": "23ce1c6c6e75b133856557502263993602fbf81c21185e67f8c89599d2524d12",
+        "gpsFonte": "ANDROID_EXIF_NATIVE",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": "GPS_OK",
+        "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "exifNativeData": "2026:09:23 16:36:54",
+        "exifNativeLat": -14.222716666666667,
+        "exifNativeLon": -39.093035
+      }
+    ]
+  }
+}
