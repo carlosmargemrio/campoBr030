@@ -1,0 +1,368 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260928_082615.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260928_082615",
+        "arquivo": "TimePhoto_20260928_082615.jpg",
+        "caminho": "IMGS/TimePhoto_20260928_082615.jpg",
+        "lat": -14.219866666666666,
+        "lon": -39.09039972222222,
+        "latlon": "-14.219867, -39.090400",
+        "utm": "24L 490247 8427955",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 490247,
+        "utm_northing": 8427955,
+        "utm_hemisphere": "S",
+        "data": "28/09/2026",
+        "horario": "08:26",
+        "legenda": "Continuidade da supressão vegetal semimecanizada na altura da estaca 1574, com corte e seccionamento dos elementos lenhosos presentes na faixa de intervenção",
+        "hash_md5": null,
+        "hash_sha256": "84d9d53c4df330cd6e3aa139cc0485252d55c3f2d69dd45a867cb8b83f3c203a",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.09039972222222,
+          -14.219866666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260928_083602.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260928_083602",
+        "arquivo": "TimePhoto_20260928_083602.jpg",
+        "caminho": "IMGS/TimePhoto_20260928_083602.jpg",
+        "lat": -14.219809722222223,
+        "lon": -39.09028166666667,
+        "latlon": "-14.219810, -39.090282",
+        "utm": "24L 490260 8427962",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 490260,
+        "utm_northing": 8427962,
+        "utm_hemisphere": "S",
+        "data": "28/09/2026",
+        "horario": "08:36",
+        "legenda": "Vista da área submetida à supressão vegetal semimecanizada, evidenciando a abertura progressiva da faixa e os resíduos vegetais remanescentes da intervenção",
+        "hash_md5": null,
+        "hash_sha256": "f16cb354d4a32a3f10a5b95e8cef4bd7539339e4c62aee438b377a11f215f64b",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.09028166666667,
+          -14.219809722222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260928_131859.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260928_131859",
+        "arquivo": "TimePhoto_20260928_131859.jpg",
+        "caminho": "IMGS/TimePhoto_20260928_131859.jpg",
+        "lat": -14.21988,
+        "lon": -39.090448055555555,
+        "latlon": "-14.219880, -39.090448",
+        "utm": "24L 490242 8427954",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 490242,
+        "utm_northing": 8427954,
+        "utm_hemisphere": "S",
+        "data": "28/09/2026",
+        "horario": "13:18",
+        "legenda": "Acompanhamento arqueológico durante a escavação mecanizada e o carregamento do material removido na estação 1572",
+        "hash_md5": null,
+        "hash_sha256": "5f426fcae6a55d2ee20686fc788755d91b126825c30847cea66f1668e4c97ded",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.090448055555555,
+          -14.21988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260928_163310.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260928_163310",
+        "arquivo": "TimePhoto_20260928_163310.jpg",
+        "caminho": "IMGS/TimePhoto_20260928_163310.jpg",
+        "lat": -14.220051388888889,
+        "lon": -39.091388055555555,
+        "latlon": "-14.220051, -39.091388",
+        "utm": "24L 490140 8427935",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 490140,
+        "utm_northing": 8427935,
+        "utm_hemisphere": "S",
+        "data": "28/09/2026",
+        "horario": "16:33",
+        "legenda": "Escavação mecanizada e conformação da frente de corte, com remoção progressiva do solo na altura das estacas 1568 e 1569",
+        "hash_md5": null,
+        "hash_sha256": "0fd88020eb02bb0e80d79422bef601695b57fadf13fd56eb5e9deb8d66f14142",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.091388055555555,
+          -14.220051388888889
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MUL63Y5I",
+    "dataCampo": "2026-09-28",
+    "horaIni": "07:35",
+    "horaFim": "16:50",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Rodovia Br 030/Ba: Entroncamento Ba 001 - Maraú – Ba",
+    "localidade": "Maraú - BA",
+    "empresaExecutora": "HAS CONSULTORIA",
+    "fichaNumero": "7",
+    "coordenadasTexto": null,
+    "coordCampo": "Carlos Rocha",
+    "arqResp": "Carlos Rocha",
+    "cargoResponsavel": "Arqueólogo",
+    "trecho": "1568, 1569, 1572 e 1574",
+    "tipoIntervencao": "Supressão Vegetal",
+    "tipoIntervencaoOutro": "Escavação",
+    "tipoAcao": "Supressão vegetal semimecanizada e escavação ",
+    "clima": "Ensolarado",
+    "climaOutro": null,
+    "vegetacao": null,
+    "relevo": null,
+    "solo": "Argiloso / Argilo-arenoso",
+    "granulometria": "Média",
+    "vestigios": "NAO",
+    "tipoEvidencia": null,
+    "materiaisEncontrados": null,
+    "tipoMaterial": null,
+    "tipoMaterialOutro": null,
+    "coleta": "NAO",
+    "amostrasAnalise": null,
+    "fotografias": null,
+    "croquis": null,
+    "houveAlteracaoContexto": null,
+    "medidasAdotadas": null,
+    "interrupcaoAtividade": null,
+    "motivoInterrupcao": null,
+    "observacoesRecomendacoes": null,
+    "observacoesExtras": null,
+    "desc": "O acompanhamento arqueológico concentrou-se na continuidade de duas frentes distintas de intervenção ao longo da BR-030. Na altura da estaca 1574 e 1575, foram acompanhadas as atividades de supressão vegetal semimecanizada, com corte, seccionamento e remoção progressiva dos elementos lenhosos presentes na faixa de intervenção, processo que ampliou gradualmente a exposição da superfície anteriormente recoberta e permitiu a inspeção das áreas liberadas e dos pontos sujeitos à movimentação superficial do solo; paralelamente, entre as estacas 1568 e 1569 e na altura da estaca 1572, foram acompanhados os serviços de escavação mecanizada, com retirada, carregamento e transporte do material removido, promovendo o avanço das frentes de corte sobre níveis subsuperficiais ainda não expostos e, consequentemente, a abertura sucessiva de novas superfícies passíveis de observação arqueológica. O acompanhamento foi realizado de forma concomitante ao desenvolvimento das intervenções, mediante inspeção visual sistemática dos sedimentos mobilizados, das superfícies recém-abertas e dos perfis produzidos pelo avanço da escavação.",
+    "obs": null,
+    "modeloDocx": "HAS_ACOMPANHAMENTO",
+    "status": "DRAFT",
+    "tradagens": [],
+    "imagens_sem_gps": []
+  },
+  "app_restore": {
+    "kind": "FichaCampoWebView_HAS_RECORD_BACKUP",
+    "backupVersion": 1,
+    "appVersion": "v24",
+    "exportedAt": "2026-09-28T23:32:18.274Z",
+    "dbName": "fichacampo_v_final_corrigido",
+    "record": {
+      "id": "MUL63Y5I",
+      "status": "DRAFT",
+      "createdAt": 1790595131832,
+      "updatedAt": 1790638314702,
+      "dataCampo": "2026-09-28",
+      "horaIni": "07:35",
+      "horaFim": "16:50",
+      "atividade": "Monitoramento",
+      "categoria": "ADA",
+      "projeto": "Rodovia Br 030/Ba: Entroncamento Ba 001 - Maraú – Ba",
+      "localidade": "Maraú - BA",
+      "empresaExecutora": "HAS CONSULTORIA",
+      "fichaNumero": "7",
+      "coordenadasTexto": "",
+      "coordCampo": "Carlos Rocha",
+      "arqResp": "Carlos Rocha",
+      "cargoResponsavel": "Arqueólogo",
+      "tipoAcao": "Supressão vegetal semimecanizada e escavação ",
+      "trecho": "1568, 1569, 1572 e 1574",
+      "tipoIntervencao": "Supressão Vegetal",
+      "tipoIntervencaoOutro": "Escavação",
+      "clima": "Ensolarado",
+      "climaOutro": "",
+      "vegetacao": "",
+      "relevo": "",
+      "solo": "Argiloso / Argilo-arenoso",
+      "granulometria": "Média",
+      "vestigios": "NAO",
+      "tipoEvidencia": "",
+      "materiaisEncontrados": "",
+      "tipoMaterial": "",
+      "tipoMaterialOutro": "",
+      "coleta": "NAO",
+      "amostrasAnalise": "",
+      "fotografias": "",
+      "croquis": "",
+      "houveAlteracaoContexto": "",
+      "medidasAdotadas": "",
+      "interrupcaoAtividade": "",
+      "motivoInterrupcao": "",
+      "observacoesRecomendacoes": "",
+      "observacoesExtras": "",
+      "desc": "O acompanhamento arqueológico concentrou-se na continuidade de duas frentes distintas de intervenção ao longo da BR-030. Na altura da estaca 1574 e 1575, foram acompanhadas as atividades de supressão vegetal semimecanizada, com corte, seccionamento e remoção progressiva dos elementos lenhosos presentes na faixa de intervenção, processo que ampliou gradualmente a exposição da superfície anteriormente recoberta e permitiu a inspeção das áreas liberadas e dos pontos sujeitos à movimentação superficial do solo; paralelamente, entre as estacas 1568 e 1569 e na altura da estaca 1572, foram acompanhados os serviços de escavação mecanizada, com retirada, carregamento e transporte do material removido, promovendo o avanço das frentes de corte sobre níveis subsuperficiais ainda não expostos e, consequentemente, a abertura sucessiva de novas superfícies passíveis de observação arqueológica. O acompanhamento foi realizado de forma concomitante ao desenvolvimento das intervenções, mediante inspeção visual sistemática dos sedimentos mobilizados, das superfícies recém-abertas e dos perfis produzidos pelo avanço da escavação.",
+      "obs": "",
+      "modeloDocx": "HAS_ACOMPANHAMENTO",
+      "tradagens": []
+    },
+    "images": [
+      {
+        "key": "MUL63Y5I_1790635278810_yzjx13vj7jl",
+        "recordId": "MUL63Y5I",
+        "filename": "TimePhoto_20260928_082615.jpg",
+        "dt": "2026:09:28 08:26:15",
+        "coords": [
+          -39.09039972222222,
+          -14.219866666666666
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 490247,
+          "northing": 8427955
+        },
+        "dir": null,
+        "caption": "Continuidade da supressão vegetal semimecanizada na altura da estaca 1574, com corte e seccionamento dos elementos lenhosos presentes na faixa de intervenção",
+        "created": 1790635278811,
+        "hashArquivo_sha256": "84d9d53c4df330cd6e3aa139cc0485252d55c3f2d69dd45a867cb8b83f3c203a",
+        "gpsFonte": "ANDROID_EXIF_NATIVE",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": "GPS_OK",
+        "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "exifNativeData": "2026:09:28 08:26:15",
+        "exifNativeLat": -14.219866666666666,
+        "exifNativeLon": -39.09039972222222
+      },
+      {
+        "key": "MUL63Y5I_1790635279213_i4858cshjhk",
+        "recordId": "MUL63Y5I",
+        "filename": "TimePhoto_20260928_083602.jpg",
+        "dt": "2026:09:28 08:36:02",
+        "coords": [
+          -39.09028166666667,
+          -14.219809722222223
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 490260,
+          "northing": 8427962
+        },
+        "dir": null,
+        "caption": "Vista da área submetida à supressão vegetal semimecanizada, evidenciando a abertura progressiva da faixa e os resíduos vegetais remanescentes da intervenção",
+        "created": 1790635279213,
+        "hashArquivo_sha256": "f16cb354d4a32a3f10a5b95e8cef4bd7539339e4c62aee438b377a11f215f64b",
+        "gpsFonte": "ANDROID_EXIF_NATIVE",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": "GPS_OK",
+        "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "exifNativeData": "2026:09:28 08:36:02",
+        "exifNativeLat": -14.219809722222223,
+        "exifNativeLon": -39.09028166666667
+      },
+      {
+        "key": "MUL63Y5I_1790635279727_zwy0my5xpo",
+        "recordId": "MUL63Y5I",
+        "filename": "TimePhoto_20260928_131859.jpg",
+        "dt": "2026:09:28 13:18:59",
+        "coords": [
+          -39.090448055555555,
+          -14.21988
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 490242,
+          "northing": 8427954
+        },
+        "dir": null,
+        "caption": "Acompanhamento arqueológico durante a escavação mecanizada e o carregamento do material removido na estação 1572",
+        "created": 1790635279727,
+        "hashArquivo_sha256": "5f426fcae6a55d2ee20686fc788755d91b126825c30847cea66f1668e4c97ded",
+        "gpsFonte": "ANDROID_EXIF_NATIVE",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": "GPS_OK",
+        "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "exifNativeData": "2026:09:28 13:18:59",
+        "exifNativeLat": -14.21988,
+        "exifNativeLon": -39.090448055555555
+      },
+      {
+        "key": "MUL63Y5I_1790635280077_7zyoyeohv2v",
+        "recordId": "MUL63Y5I",
+        "filename": "TimePhoto_20260928_163310.jpg",
+        "dt": "2026:09:28 16:33:10",
+        "coords": [
+          -39.091388055555555,
+          -14.220051388888889
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 490140,
+          "northing": 8427935
+        },
+        "dir": null,
+        "caption": "Escavação mecanizada e conformação da frente de corte, com remoção progressiva do solo na altura das estacas 1568 e 1569",
+        "created": 1790635280077,
+        "hashArquivo_sha256": "0fd88020eb02bb0e80d79422bef601695b57fadf13fd56eb5e9deb8d66f14142",
+        "gpsFonte": "ANDROID_EXIF_NATIVE",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": "GPS_OK",
+        "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "exifNativeData": "2026:09:28 16:33:10",
+        "exifNativeLat": -14.220051388888889,
+        "exifNativeLon": -39.091388055555555
+      }
+    ]
+  }
+}
