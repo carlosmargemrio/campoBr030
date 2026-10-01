@@ -1,0 +1,368 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260930_074239.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260930_074239",
+        "arquivo": "TimePhoto_20260930_074239.jpg",
+        "caminho": "IMGS/TimePhoto_20260930_074239.jpg",
+        "lat": -14.220606666666667,
+        "lon": -39.08215638888889,
+        "latlon": "-14.220607, -39.082156",
+        "utm": "24L 491136 8427874",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 491136,
+        "utm_northing": 8427874,
+        "utm_hemisphere": "S",
+        "data": "30/09/2026",
+        "horario": "07:42",
+        "legenda": "Regularização da superfície e ajuste da geometria do talude durante o avanço dos serviços de terraplenagem",
+        "hash_md5": null,
+        "hash_sha256": "e2e189a5509be8a0aeae42c9beb06ecadb05e758780677e482dd58b767df296e",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.08215638888889,
+          -14.220606666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260930_083154.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260930_083154",
+        "arquivo": "TimePhoto_20260930_083154.jpg",
+        "caminho": "IMGS/TimePhoto_20260930_083154.jpg",
+        "lat": -14.220225000000001,
+        "lon": -39.08246638888889,
+        "latlon": "-14.220225, -39.082466",
+        "utm": "24L 491103 8427916",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 491103,
+        "utm_northing": 8427916,
+        "utm_hemisphere": "S",
+        "data": "30/09/2026",
+        "horario": "08:31",
+        "legenda": "Escavação mecanizada associada ao aprofundamento da frente de corte e conformação do talude no trecho monitorado",
+        "hash_md5": null,
+        "hash_sha256": "09ab5806715e8dcfdbf0efb4a5d134cd7358ff2d7c79806861a478a4b14d33a1",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.08246638888889,
+          -14.220225000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260930_132651.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260930_132651",
+        "arquivo": "TimePhoto_20260930_132651.jpg",
+        "caminho": "IMGS/TimePhoto_20260930_132651.jpg",
+        "lat": -14.220151666666666,
+        "lon": -39.082526388888894,
+        "latlon": "-14.220152, -39.082526",
+        "utm": "24L 491096 8427924",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 491096,
+        "utm_northing": 8427924,
+        "utm_hemisphere": "S",
+        "data": "30/09/2026",
+        "horario": "13:26",
+        "legenda": "Escavação mecanizada com carregamento do material removido durante o avanço da frente de corte",
+        "hash_md5": null,
+        "hash_sha256": "1738861bd5ad0dc39cbc96fe534144e2e27351dee72eeaa6fd3077e99640783a",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.082526388888894,
+          -14.220151666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20260930_164733.jpg",
+      "properties": {
+        "nome": "TimePhoto_20260930_164733",
+        "arquivo": "TimePhoto_20260930_164733.jpg",
+        "caminho": "IMGS/TimePhoto_20260930_164733.jpg",
+        "lat": -14.220435,
+        "lon": -39.08240166666667,
+        "latlon": "-14.220435, -39.082402",
+        "utm": "24L 491110 8427893",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 491110,
+        "utm_northing": 8427893,
+        "utm_hemisphere": "S",
+        "data": "30/09/2026",
+        "horario": "16:47",
+        "legenda": "Regularização mecanizada da frente de corte durante os serviços de conformação de talude",
+        "hash_md5": null,
+        "hash_sha256": "4b37a35edc81efb0d38a5c0052f6f98f5c7618455d2de0c5e8c55f4eb633c40f",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.08240166666667,
+          -14.220435
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MUOSR01A",
+    "dataCampo": "2026-09-30",
+    "horaIni": "07:42",
+    "horaFim": "16:48",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Rodovia Br 030/Ba: Entroncamento Ba 001 - Maraú – Ba",
+    "localidade": "Maraú - BA",
+    "empresaExecutora": "HAS CONSULTORIA",
+    "fichaNumero": "9",
+    "coordenadasTexto": null,
+    "coordCampo": "Carlos Rocha",
+    "arqResp": "Carlos Rocha",
+    "cargoResponsavel": "Arqueólogo",
+    "trecho": "Estacas 1619 a 1621",
+    "tipoIntervencao": "Outros",
+    "tipoIntervencaoOutro": "corte e conformação de talude",
+    "tipoAcao": "corte e conformação de talude",
+    "clima": "Ensolarado",
+    "climaOutro": null,
+    "vegetacao": null,
+    "relevo": null,
+    "solo": "Argiloso / Argilo-arenoso",
+    "granulometria": "Média",
+    "vestigios": "NAO",
+    "tipoEvidencia": null,
+    "materiaisEncontrados": null,
+    "tipoMaterial": null,
+    "tipoMaterialOutro": null,
+    "coleta": "NAO",
+    "amostrasAnalise": null,
+    "fotografias": null,
+    "croquis": null,
+    "houveAlteracaoContexto": null,
+    "medidasAdotadas": null,
+    "interrupcaoAtividade": null,
+    "motivoInterrupcao": null,
+    "observacoesRecomendacoes": null,
+    "observacoesExtras": null,
+    "desc": "O acompanhamento arqueológico concentrou-se nos serviços de corte e conformação de talude executados no trecho da BR-030 compreendido entre as estacas 1619 a 1621, onde a escavação mecanizada promoveu o rebaixamento progressivo da frente de intervenção e a retirada sucessiva de volumes de solo, expondo novos níveis subsuperficiais à medida que se avançava na adequação geométrica do terreno; concomitantemente à movimentação mecanizada, foram inspecionadas as superfícies recém-abertas, os perfis resultantes do corte e o material mobilizado durante a operação, observando-se predominância de sedimentos avermelhados, relativamente homogêneos, enquanto a conformação do talude produziu superfícies inclinadas contínuas que ampliaram a leitura do comportamento estratigráfico ao longo do segmento monitorado.",
+    "obs": null,
+    "modeloDocx": "HAS_ACOMPANHAMENTO",
+    "status": "DRAFT",
+    "tradagens": [],
+    "imagens_sem_gps": []
+  },
+  "app_restore": {
+    "kind": "FichaCampoWebView_HAS_RECORD_BACKUP",
+    "backupVersion": 1,
+    "appVersion": "v24",
+    "exportedAt": "2026-10-01T01:02:32.721Z",
+    "dbName": "fichacampo_v_final_corrigido",
+    "record": {
+      "id": "MUOSR01A",
+      "status": "DRAFT",
+      "createdAt": 1790814558019,
+      "updatedAt": 1790815051032,
+      "dataCampo": "2026-09-30",
+      "horaIni": "07:42",
+      "horaFim": "16:48",
+      "atividade": "Monitoramento",
+      "categoria": "ADA",
+      "projeto": "Rodovia Br 030/Ba: Entroncamento Ba 001 - Maraú – Ba",
+      "localidade": "Maraú - BA",
+      "empresaExecutora": "HAS CONSULTORIA",
+      "fichaNumero": "9",
+      "coordenadasTexto": "",
+      "coordCampo": "Carlos Rocha",
+      "arqResp": "Carlos Rocha",
+      "cargoResponsavel": "Arqueólogo",
+      "tipoAcao": "corte e conformação de talude",
+      "trecho": "Estacas 1619 a 1621",
+      "tipoIntervencao": "Outros",
+      "tipoIntervencaoOutro": "corte e conformação de talude",
+      "clima": "Ensolarado",
+      "climaOutro": "",
+      "vegetacao": "",
+      "relevo": "",
+      "solo": "Argiloso / Argilo-arenoso",
+      "granulometria": "Média",
+      "vestigios": "NAO",
+      "tipoEvidencia": "",
+      "materiaisEncontrados": "",
+      "tipoMaterial": "",
+      "tipoMaterialOutro": "",
+      "coleta": "NAO",
+      "amostrasAnalise": "",
+      "fotografias": "",
+      "croquis": "",
+      "houveAlteracaoContexto": "",
+      "medidasAdotadas": "",
+      "interrupcaoAtividade": "",
+      "motivoInterrupcao": "",
+      "observacoesRecomendacoes": "",
+      "observacoesExtras": "",
+      "desc": "O acompanhamento arqueológico concentrou-se nos serviços de corte e conformação de talude executados no trecho da BR-030 compreendido entre as estacas 1619 a 1621, onde a escavação mecanizada promoveu o rebaixamento progressivo da frente de intervenção e a retirada sucessiva de volumes de solo, expondo novos níveis subsuperficiais à medida que se avançava na adequação geométrica do terreno; concomitantemente à movimentação mecanizada, foram inspecionadas as superfícies recém-abertas, os perfis resultantes do corte e o material mobilizado durante a operação, observando-se predominância de sedimentos avermelhados, relativamente homogêneos, enquanto a conformação do talude produziu superfícies inclinadas contínuas que ampliaram a leitura do comportamento estratigráfico ao longo do segmento monitorado.",
+      "obs": "",
+      "modeloDocx": "HAS_ACOMPANHAMENTO",
+      "tradagens": []
+    },
+    "images": [
+      {
+        "key": "MUOSR01A_1790816095849_iob60esdttj",
+        "recordId": "MUOSR01A",
+        "filename": "TimePhoto_20260930_074239.jpg",
+        "dt": "2026:09:30 07:42:39",
+        "coords": [
+          -39.08215638888889,
+          -14.220606666666667
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 491136,
+          "northing": 8427874
+        },
+        "dir": null,
+        "caption": "Regularização da superfície e ajuste da geometria do talude durante o avanço dos serviços de terraplenagem",
+        "created": 1790816095849,
+        "hashArquivo_sha256": "e2e189a5509be8a0aeae42c9beb06ecadb05e758780677e482dd58b767df296e",
+        "gpsFonte": "ANDROID_EXIF_NATIVE",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": "GPS_OK",
+        "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "exifNativeData": "2026:09:30 07:42:39",
+        "exifNativeLat": -14.220606666666667,
+        "exifNativeLon": -39.08215638888889
+      },
+      {
+        "key": "MUOSR01A_1790816096071_s3it0tor46r",
+        "recordId": "MUOSR01A",
+        "filename": "TimePhoto_20260930_083154.jpg",
+        "dt": "2026:09:30 08:31:54",
+        "coords": [
+          -39.08246638888889,
+          -14.220225000000001
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 491103,
+          "northing": 8427916
+        },
+        "dir": null,
+        "caption": "Escavação mecanizada associada ao aprofundamento da frente de corte e conformação do talude no trecho monitorado",
+        "created": 1790816096071,
+        "hashArquivo_sha256": "09ab5806715e8dcfdbf0efb4a5d134cd7358ff2d7c79806861a478a4b14d33a1",
+        "gpsFonte": "ANDROID_EXIF_NATIVE",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": "GPS_OK",
+        "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "exifNativeData": "2026:09:30 08:31:54",
+        "exifNativeLat": -14.220225000000001,
+        "exifNativeLon": -39.08246638888889
+      },
+      {
+        "key": "MUOSR01A_1790816096302_mmtft9jqie",
+        "recordId": "MUOSR01A",
+        "filename": "TimePhoto_20260930_132651.jpg",
+        "dt": "2026:09:30 13:26:51",
+        "coords": [
+          -39.082526388888894,
+          -14.220151666666666
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 491096,
+          "northing": 8427924
+        },
+        "dir": null,
+        "caption": "Escavação mecanizada com carregamento do material removido durante o avanço da frente de corte",
+        "created": 1790816096302,
+        "hashArquivo_sha256": "1738861bd5ad0dc39cbc96fe534144e2e27351dee72eeaa6fd3077e99640783a",
+        "gpsFonte": "ANDROID_EXIF_NATIVE",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": "GPS_OK",
+        "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "exifNativeData": "2026:09:30 13:26:51",
+        "exifNativeLat": -14.220151666666666,
+        "exifNativeLon": -39.082526388888894
+      },
+      {
+        "key": "MUOSR01A_1790816096523_2w2b8fhv39b",
+        "recordId": "MUOSR01A",
+        "filename": "TimePhoto_20260930_164733.jpg",
+        "dt": "2026:09:30 16:47:33",
+        "coords": [
+          -39.08240166666667,
+          -14.220435
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 491110,
+          "northing": 8427893
+        },
+        "dir": null,
+        "caption": "Regularização mecanizada da frente de corte durante os serviços de conformação de talude",
+        "created": 1790816096523,
+        "hashArquivo_sha256": "4b37a35edc81efb0d38a5c0052f6f98f5c7618455d2de0c5e8c55f4eb633c40f",
+        "gpsFonte": "ANDROID_EXIF_NATIVE",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": "GPS_OK",
+        "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "exifNativeData": "2026:09:30 16:47:33",
+        "exifNativeLat": -14.220435,
+        "exifNativeLon": -39.08240166666667
+      }
+    ]
+  }
+}
