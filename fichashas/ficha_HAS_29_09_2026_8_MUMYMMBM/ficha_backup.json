@@ -1,0 +1,219 @@
+{
+  "kind": "FichaCampoWebView_HAS_RECORD_BACKUP",
+  "backupVersion": 1,
+  "appVersion": "v24",
+  "exportedAt": "2026-10-01T00:52:10.621Z",
+  "dbName": "fichacampo_v_final_corrigido",
+  "record": {
+    "id": "MUMYMMBM",
+    "status": "DRAFT",
+    "createdAt": 1790703498399,
+    "updatedAt": 1790815864562,
+    "dataCampo": "2026-09-29",
+    "horaIni": "07:43",
+    "horaFim": "16:55",
+    "atividade": "Acompanhamento arqueológico",
+    "categoria": "ADA",
+    "projeto": "Rodovia Br 030/Ba: Entroncamento Ba 001 - Maraú – Ba",
+    "localidade": "Maraú - BA",
+    "empresaExecutora": "HAS CONSULTORIA",
+    "fichaNumero": "8",
+    "coordenadasTexto": "",
+    "coordCampo": "Carlos Rocha",
+    "arqResp": "Carlos Rocha",
+    "cargoResponsavel": "Arqueólogo",
+    "tipoAcao": "supressão vegetal semimecanizada, com corte, escavação mecanizada, com retirada, carregamento e transporte do material removido",
+    "trecho": "Estacas 1653 a1667, 1568, 1569, 1572, 1574.",
+    "tipoIntervencao": "Outros",
+    "tipoIntervencaoOutro": "supressão vegetal semimecanizada, com corte, escavação mecanizada, com retirada, carregamento e transporte do material removido",
+    "clima": "Ensolarado",
+    "climaOutro": "",
+    "vegetacao": "",
+    "relevo": "",
+    "solo": "Argiloso / Argilo-arenoso",
+    "granulometria": "Média",
+    "vestigios": "NAO",
+    "tipoEvidencia": "",
+    "materiaisEncontrados": "",
+    "tipoMaterial": "",
+    "tipoMaterialOutro": "",
+    "coleta": "NAO",
+    "amostrasAnalise": "",
+    "fotografias": "",
+    "croquis": "",
+    "houveAlteracaoContexto": "",
+    "medidasAdotadas": "",
+    "interrupcaoAtividade": "",
+    "motivoInterrupcao": "",
+    "observacoesRecomendacoes": "",
+    "observacoesExtras": "",
+    "desc": "O acompanhamento arqueológico concentrou-se na continuidade de frentes já anteriormente submetidas à intervenção e na abertura de um novo segmento de trabalho ao longo da BR-030. Na altura da estaca 1574, prosseguiram as atividades de supressão vegetal semimecanizada, com corte, seccionamento e remoção dos elementos lenhosos presentes na faixa de intervenção, ampliando gradativamente a superfície disponível para inspeção; entre as estacas 1568 a 1569 e na altura da estaca 1572, foram acompanhados os serviços de escavação mecanizada, com retirada, carregamento e transporte do material removido, processo que promoveu o avanço das frentes de corte e a exposição sucessiva de novos níveis subsuperficiais. Em outra frente, compreendida entre as estacas 1653 a 1667, foram acompanhadas a supressão vegetal e a limpeza mecanizada da camada húmica, mediante retirada da cobertura vegetal residual e remoção superficial do terreno com trator de esteiras, permitindo a exposição progressiva das superfícies anteriormente recobertas. Em todas as frentes, o acompanhamento foi realizado concomitantemente ao avanço das intervenções, mediante inspeção visual sistemática das superfícies recém-abertas, dos sedimentos mobilizados e, nos setores submetidos a escavação, dos perfis e níveis subsuperficiais resultantes da movimentação mecanizada.",
+    "obs": "",
+    "modeloDocx": "HAS_ACOMPANHAMENTO",
+    "tradagens": []
+  },
+  "images": [
+    {
+      "key": "MUMYMMBM_1790718257819_9opt34jke6a",
+      "recordId": "MUMYMMBM",
+      "filename": "TimePhoto_20260929_152827.jpg",
+      "dt": "2026:09:29 15:28:27",
+      "coords": [
+        -39.076155,
+        -14.221165000000001
+      ],
+      "utm": {
+        "zone": 24,
+        "band": "L",
+        "easting": 491784,
+        "northing": 8427812
+      },
+      "dir": null,
+      "caption": "Rodovia BR 030 Maraú/BA",
+      "created": 1790718257819,
+      "hashArquivo_sha256": "9ab4be71a1df0aac33989a39d0ed3022c7419ced1bf7dd21f1611c273da80f21",
+      "gpsFonte": "ANDROID_EXIF_NATIVE",
+      "exifJsStatus": "GPS_OK",
+      "exifNativeStatus": "GPS_OK",
+      "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+      "exifNativeData": "2026:09:29 15:28:27",
+      "exifNativeLat": -14.221165000000001,
+      "exifNativeLon": -39.076155
+    },
+    {
+      "key": "MUMYMMBM_1790718258264_ethc8lvmqq6",
+      "recordId": "MUMYMMBM",
+      "filename": "TimePhoto_20260929_145533.jpg",
+      "dt": "2026:09:29 14:55:33",
+      "coords": [
+        -39.07702833333334,
+        -14.221833055555555
+      ],
+      "utm": {
+        "zone": 24,
+        "band": "L",
+        "easting": 491690,
+        "northing": 8427738
+      },
+      "dir": null,
+      "caption": "Rodovia BR 030 Maraú/BA",
+      "created": 1790718258264,
+      "hashArquivo_sha256": "9de593e5e02b8fd2f3cf703414506e6cb524e8c3c541c95bbbe69358b06eea39",
+      "gpsFonte": "ANDROID_EXIF_NATIVE",
+      "exifJsStatus": "GPS_OK",
+      "exifNativeStatus": "GPS_OK",
+      "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+      "exifNativeData": "2026:09:29 14:55:33",
+      "exifNativeLat": -14.221833055555555,
+      "exifNativeLon": -39.07702833333334
+    },
+    {
+      "key": "MUMYMMBM_1790718258728_hki3hfinr8",
+      "recordId": "MUMYMMBM",
+      "filename": "TimePhoto_20260929_101950.jpg",
+      "dt": "2026:09:29 10:19:50",
+      "coords": [
+        -39.09113166666667,
+        -14.219976388888888
+      ],
+      "utm": {
+        "zone": 24,
+        "band": "L",
+        "easting": 490168,
+        "northing": 8427943
+      },
+      "dir": null,
+      "caption": "Rodovia BR 030 Maraú/BA",
+      "created": 1790718258728,
+      "hashArquivo_sha256": "869272c07317948dccbca6f4fa49aa3bf4da12a83b4b2c5b4e698d1cd97af28c",
+      "gpsFonte": "ANDROID_EXIF_NATIVE",
+      "exifJsStatus": "GPS_OK",
+      "exifNativeStatus": "GPS_OK",
+      "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+      "exifNativeData": "2026:09:29 10:19:50",
+      "exifNativeLat": -14.219976388888888,
+      "exifNativeLon": -39.09113166666667
+    },
+    {
+      "key": "MUMYMMBM_1790718259176_wdu770jswm",
+      "recordId": "MUMYMMBM",
+      "filename": "TimePhoto_20260929_085926.jpg",
+      "dt": "2026:09:29 08:59:26",
+      "coords": [
+        -39.09026166666667,
+        -14.219788333333334
+      ],
+      "utm": {
+        "zone": 24,
+        "band": "L",
+        "easting": 490262,
+        "northing": 8427964
+      },
+      "dir": null,
+      "caption": "Rodovia BR 030 Maraú/BA",
+      "created": 1790718259176,
+      "hashArquivo_sha256": "4b8e87ac2d037147dd23c860cf61020debb8d3ad3bcee4f1359522f5f40ca146",
+      "gpsFonte": "ANDROID_EXIF_NATIVE",
+      "exifJsStatus": "GPS_OK",
+      "exifNativeStatus": "GPS_OK",
+      "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+      "exifNativeData": "2026:09:29 08:59:26",
+      "exifNativeLat": -14.219788333333334,
+      "exifNativeLon": -39.09026166666667
+    },
+    {
+      "key": "MUMYMMBM_1790718259464_yziw7hvlocq",
+      "recordId": "MUMYMMBM",
+      "filename": "TimePhoto_20260929_084332.jpg",
+      "dt": "2026:09:29 08:43:32",
+      "coords": [
+        -39.09030333333334,
+        -14.219858055555555
+      ],
+      "utm": {
+        "zone": 24,
+        "band": "L",
+        "easting": 490257,
+        "northing": 8427956
+      },
+      "dir": null,
+      "caption": "Rodovia BR 030 Maraú/BA",
+      "created": 1790718259464,
+      "hashArquivo_sha256": "1cbd3a011868b6ec7575d90e2e328cd298b92b0e22969d08a9a60cab9f246ffa",
+      "gpsFonte": "ANDROID_EXIF_NATIVE",
+      "exifJsStatus": "GPS_OK",
+      "exifNativeStatus": "GPS_OK",
+      "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+      "exifNativeData": "2026:09:29 08:43:32",
+      "exifNativeLat": -14.219858055555555,
+      "exifNativeLon": -39.09030333333334
+    },
+    {
+      "key": "MUMYMMBM_1790718259807_udg7ipdkaa",
+      "recordId": "MUMYMMBM",
+      "filename": "TimePhoto_20260929_082428.jpg",
+      "dt": "2026:09:29 08:24:28",
+      "coords": [
+        -39.090361388888894,
+        -14.219850000000001
+      ],
+      "utm": {
+        "zone": 24,
+        "band": "L",
+        "easting": 490251,
+        "northing": 8427957
+      },
+      "dir": null,
+      "caption": "Rodovia BR 030 Maraú/BA",
+      "created": 1790718259808,
+      "hashArquivo_sha256": "59aab1b4400a1e3ee57bd320a0c0e2c26f6d07e69da560a3d72a350a96cac793",
+      "gpsFonte": "ANDROID_EXIF_NATIVE",
+      "exifJsStatus": "GPS_OK",
+      "exifNativeStatus": "GPS_OK",
+      "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+      "exifNativeData": "2026:09:29 08:24:28",
+      "exifNativeLat": -14.219850000000001,
+      "exifNativeLon": -39.090361388888894
+    }
+  ]
+}
