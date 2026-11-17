@@ -1,0 +1,368 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "IMG_3470.JPG.jpeg",
+      "properties": {
+        "nome": "IMG_3470.JPG",
+        "arquivo": "IMG_3470.JPG.jpeg",
+        "caminho": "IMGS/IMG_3470.JPG.jpeg",
+        "lat": -9.305172222222224,
+        "lon": -39.925419444444444,
+        "latlon": "-9.305172, -39.925419",
+        "utm": "24L 398366 8971276",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 398366,
+        "utm_northing": 8971276,
+        "utm_hemisphere": "S",
+        "data": "16/11/2026",
+        "horario": "10:57",
+        "legenda": "Avanço da frente mecanizada em setor com acúmulo de material lenhoso proveniente da cubagem vegetal, condição que restringiu parcialmente a continuidade do eixo inicialmente previsto",
+        "hash_md5": null,
+        "hash_sha256": "5e90d5b445153a22c1e86e212dcfce22ae026837e3cb4665d552b4989c0a71da",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.925419444444444,
+          -9.305172222222224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "IMG_3472.JPG.jpeg",
+      "properties": {
+        "nome": "IMG_3472.JPG",
+        "arquivo": "IMG_3472.JPG.jpeg",
+        "caminho": "IMGS/IMG_3472.JPG.jpeg",
+        "lat": -9.30876388888889,
+        "lon": -39.926624999999994,
+        "latlon": "-9.308764, -39.926625",
+        "utm": "24L 398235 8970878",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 398235,
+        "utm_northing": 8970878,
+        "utm_hemisphere": "S",
+        "data": "16/11/2026",
+        "horario": "13:43",
+        "legenda": "Monitoramento da supressão mecanizada em trecho da delimitação da nova cerca, mantendo-se inspeção das superfícies expostas durante o avanço do equipamento",
+        "hash_md5": null,
+        "hash_sha256": "501ab1b8da3d4c861e3268606a99677bd13bf0f1294a2dcc37e1c07e7ec1164b",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.926624999999994,
+          -9.30876388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "IMG_3473.JPG.jpeg",
+      "properties": {
+        "nome": "IMG_3473.JPG",
+        "arquivo": "IMG_3473.JPG.jpeg",
+        "caminho": "IMGS/IMG_3473.JPG.jpeg",
+        "lat": -9.318002777777778,
+        "lon": -39.931061111111106,
+        "latlon": "-9.318003, -39.931061",
+        "utm": "24L 397750 8969855",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 397750,
+        "utm_northing": 8969855,
+        "utm_hemisphere": "S",
+        "data": "16/11/2026",
+        "horario": "15:07",
+        "legenda": "Detalhe da exposição superficial de terreno e dos seixos (pouco rolados) após a retirada da vegetação superficial",
+        "hash_md5": null,
+        "hash_sha256": "9a5176354419f897e871a3902614db9e7043419a58907974caecc91a25d35fc7",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.931061111111106,
+          -9.318002777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "IMG_3474.JPG.jpeg",
+      "properties": {
+        "nome": "IMG_3474.JPG",
+        "arquivo": "IMG_3474.JPG.jpeg",
+        "caminho": "IMGS/IMG_3474.JPG.jpeg",
+        "lat": -9.318002777777778,
+        "lon": -39.931061111111106,
+        "latlon": "-9.318003, -39.931061",
+        "utm": "24L 397750 8969855",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 397750,
+        "utm_northing": 8969855,
+        "utm_hemisphere": "S",
+        "data": "16/11/2026",
+        "horario": "15:08",
+        "legenda": "Continuidade da supressão ao longo do alinhamento demarcado para instalação da cerca, com exposição superficial de terreno pedregoso após a passagem do trator de esteiras",
+        "hash_md5": null,
+        "hash_sha256": "8184aaed900c92768c55a964b8eccb88a83d46a871777ca988e7220693fac3ca",
+        "origem_coordenadas": "EXIF_JS",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": null,
+        "exif_native_modo_leitura": null,
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.931061111111106,
+          -9.318002777777778
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MW2PNAHW",
+    "dataCampo": "2026-11-16",
+    "horaIni": "10:47",
+    "horaFim": "15:08",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Empreendimento Minéro-Industrial N8N9 - Juazeiro - BA",
+    "localidade": "Juazeiro - BA",
+    "empresaExecutora": "HAS CONSULTORIA",
+    "fichaNumero": "1",
+    "coordenadasTexto": null,
+    "coordCampo": "Reuber",
+    "arqResp": "Reuber",
+    "cargoResponsavel": null,
+    "trecho": "Implantação de nova cerca perimetral ",
+    "tipoIntervencao": "Supressão Vegetal",
+    "tipoIntervencaoOutro": null,
+    "tipoAcao": "Implantação de nova cerca perimetral ",
+    "clima": "Chuvoso",
+    "climaOutro": null,
+    "vegetacao": null,
+    "relevo": null,
+    "solo": "Arenoso / Areno-argiloso",
+    "granulometria": "Média",
+    "vestigios": "NAO",
+    "tipoEvidencia": null,
+    "materiaisEncontrados": null,
+    "tipoMaterial": null,
+    "tipoMaterialOutro": null,
+    "coleta": "NAO",
+    "amostrasAnalise": null,
+    "fotografias": null,
+    "croquis": null,
+    "houveAlteracaoContexto": null,
+    "medidasAdotadas": null,
+    "interrupcaoAtividade": null,
+    "motivoInterrupcao": null,
+    "observacoesRecomendacoes": null,
+    "observacoesExtras": null,
+    "desc": "Em continuidade ao monitoramento arqueológico da supressão vegetal destinada à implantação da nova cerca perimetral e do acesso associada, as atividades foram retomadas nos setores ainda acessíveis à passagem do maquinário.\nA frente anteriormente interrompida permaneceu parcialmente condicionada pela presença de troncos provenientes da cubagem vegetal, ainda dispostos sobre parte da faixa interna prevista para a intervenção. Diante dessa condição, o trator de esteiras manteve o avanço ao longo do alinhamento já demarcado da cerca, executando apenas uma faixa de supressão imediatamente adjacente ao seu limite, justamente no setor onde não havia impedimento provocado pelo material lenhoso acumulado.\nA faixa total prevista para supressão compreende aproximadamente 10m de largura, sendo cerca de 2m destinados ao aceiro e 8m ao futuro acesso. Considerando que essa largura corresponde, operacionalmente, a aproximadamente três passagens da lâmina do equipamento, a atividade realizada nesta jornada contemplou apenas uma dessas passagens, equivalente a cerca de 33% da largura prevista naquele trecho. As demais faixas permaneceram pendentes de execução em razão da permanência dos troncos oriundos da cubagem vegetal.\nO acompanhamento arqueológico manteve o mesmo procedimento adotado nas etapas anteriores, com inspeção prévia das superfícies acessíveis ao longo do alinhamento demarcado, observação direta durante a passagem do maquinário e posterior reinspeção dos setores recém-expostos. A supressão permaneceu predominantemente superficial, com controle da atuação da lâmina conforme orientação da equipe de Biologia, restringindo a remobilização do terreno aproximadamente aos primeiros 7 a 10cm.\nAo longo do trecho acompanhado, foram verificadas as superfícies mobilizadas, os setores marginais e os materiais expostos durante a retirada da cobertura vegetal, com atenção à presença de vestígios arqueológicos móveis, concentrações líticas, fragmentos cerâmicos, feições, mudanças localizadas de coloração ou outras alterações de possível interesse arqueológico. Não foram identificadas novas evidências arqueológicas durante a atividade.",
+    "obs": "A atuação superficial da lâmina, limitada predominantemente a aproximadamente 7 a 10 cm, possibilitou a inspeção arqueológica da camada efetivamente exposta, mas não corresponde à verificação integral dos níveis subsuperficiais que poderão ser alcançados nas etapas subsequentes da implantação.\nRecomenda-se, portanto, a manutenção do monitoramento arqueológico em toda intervenção posterior que implique novo revolvimento do solo natural, incluindo a conformação do acesso com motoniveladora ou outros equipamentos, abertura de cavas para instalação dos postes da cerca, regularizações, cortes, drenagens ou quaisquer atividades que ultrapassem a profundidade atualmente mobilizada.",
+    "modeloDocx": "HAS_ACOMPANHAMENTO",
+    "status": "COMPLETED",
+    "tradagens": [],
+    "imagens_sem_gps": []
+  },
+  "app_restore": {
+    "kind": "FichaCampoWebView_HAS_RECORD_BACKUP",
+    "backupVersion": 1,
+    "appVersion": "v24",
+    "exportedAt": "2026-11-17T20:31:07.900Z",
+    "dbName": "fichacampo_v_final_corrigido",
+    "record": {
+      "id": "MW2PNAHW",
+      "status": "COMPLETED",
+      "createdAt": 1793832655044,
+      "updatedAt": 1794947458833,
+      "dataCampo": "2026-11-16",
+      "horaIni": "10:47",
+      "horaFim": "15:08",
+      "atividade": "Monitoramento",
+      "categoria": "ADA",
+      "projeto": "Empreendimento Minéro-Industrial N8N9 - Juazeiro - BA",
+      "localidade": "Juazeiro - BA",
+      "empresaExecutora": "HAS CONSULTORIA",
+      "fichaNumero": "1",
+      "coordenadasTexto": "",
+      "coordCampo": "Reuber",
+      "arqResp": "Reuber",
+      "cargoResponsavel": "",
+      "tipoAcao": "Implantação de nova cerca perimetral ",
+      "trecho": "Implantação de nova cerca perimetral ",
+      "tipoIntervencao": "Supressão Vegetal",
+      "tipoIntervencaoOutro": "",
+      "clima": "Chuvoso",
+      "climaOutro": "",
+      "vegetacao": "",
+      "relevo": "",
+      "solo": "Arenoso / Areno-argiloso",
+      "granulometria": "Média",
+      "vestigios": "NAO",
+      "tipoEvidencia": "",
+      "materiaisEncontrados": "",
+      "tipoMaterial": "",
+      "tipoMaterialOutro": "",
+      "coleta": "NAO",
+      "amostrasAnalise": "",
+      "fotografias": "",
+      "croquis": "",
+      "houveAlteracaoContexto": "",
+      "medidasAdotadas": "",
+      "interrupcaoAtividade": "",
+      "motivoInterrupcao": "",
+      "observacoesRecomendacoes": "",
+      "observacoesExtras": "",
+      "desc": "Em continuidade ao monitoramento arqueológico da supressão vegetal destinada à implantação da nova cerca perimetral e do acesso associada, as atividades foram retomadas nos setores ainda acessíveis à passagem do maquinário.\nA frente anteriormente interrompida permaneceu parcialmente condicionada pela presença de troncos provenientes da cubagem vegetal, ainda dispostos sobre parte da faixa interna prevista para a intervenção. Diante dessa condição, o trator de esteiras manteve o avanço ao longo do alinhamento já demarcado da cerca, executando apenas uma faixa de supressão imediatamente adjacente ao seu limite, justamente no setor onde não havia impedimento provocado pelo material lenhoso acumulado.\nA faixa total prevista para supressão compreende aproximadamente 10m de largura, sendo cerca de 2m destinados ao aceiro e 8m ao futuro acesso. Considerando que essa largura corresponde, operacionalmente, a aproximadamente três passagens da lâmina do equipamento, a atividade realizada nesta jornada contemplou apenas uma dessas passagens, equivalente a cerca de 33% da largura prevista naquele trecho. As demais faixas permaneceram pendentes de execução em razão da permanência dos troncos oriundos da cubagem vegetal.\nO acompanhamento arqueológico manteve o mesmo procedimento adotado nas etapas anteriores, com inspeção prévia das superfícies acessíveis ao longo do alinhamento demarcado, observação direta durante a passagem do maquinário e posterior reinspeção dos setores recém-expostos. A supressão permaneceu predominantemente superficial, com controle da atuação da lâmina conforme orientação da equipe de Biologia, restringindo a remobilização do terreno aproximadamente aos primeiros 7 a 10cm.\nAo longo do trecho acompanhado, foram verificadas as superfícies mobilizadas, os setores marginais e os materiais expostos durante a retirada da cobertura vegetal, com atenção à presença de vestígios arqueológicos móveis, concentrações líticas, fragmentos cerâmicos, feições, mudanças localizadas de coloração ou outras alterações de possível interesse arqueológico. Não foram identificadas novas evidências arqueológicas durante a atividade.",
+      "obs": "A atuação superficial da lâmina, limitada predominantemente a aproximadamente 7 a 10 cm, possibilitou a inspeção arqueológica da camada efetivamente exposta, mas não corresponde à verificação integral dos níveis subsuperficiais que poderão ser alcançados nas etapas subsequentes da implantação.\nRecomenda-se, portanto, a manutenção do monitoramento arqueológico em toda intervenção posterior que implique novo revolvimento do solo natural, incluindo a conformação do acesso com motoniveladora ou outros equipamentos, abertura de cavas para instalação dos postes da cerca, regularizações, cortes, drenagens ou quaisquer atividades que ultrapassem a profundidade atualmente mobilizada.",
+      "modeloDocx": "HAS_ACOMPANHAMENTO",
+      "tradagens": []
+    },
+    "images": [
+      {
+        "key": "MW2PNAHW_1794917073898_4c4l63qizou",
+        "recordId": "MW2PNAHW",
+        "filename": "IMG_3470.JPG.jpeg",
+        "dt": "2026:11:16 10:57:22",
+        "coords": [
+          -39.925419444444444,
+          -9.305172222222224
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 398366,
+          "northing": 8971276
+        },
+        "dir": null,
+        "caption": "Avanço da frente mecanizada em setor com acúmulo de material lenhoso proveniente da cubagem vegetal, condição que restringiu parcialmente a continuidade do eixo inicialmente previsto",
+        "created": 1794917073898,
+        "hashArquivo_sha256": "5e90d5b445153a22c1e86e212dcfce22ae026837e3cb4665d552b4989c0a71da",
+        "gpsFonte": "EXIF_JS",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": null,
+        "exifNativeModoLeitura": null,
+        "exifNativeData": null,
+        "exifNativeLat": null,
+        "exifNativeLon": null
+      },
+      {
+        "key": "MW2PNAHW_1794917073950_8g5d45occlu",
+        "recordId": "MW2PNAHW",
+        "filename": "IMG_3472.JPG.jpeg",
+        "dt": "2026:11:16 13:43:30",
+        "coords": [
+          -39.926624999999994,
+          -9.30876388888889
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 398235,
+          "northing": 8970878
+        },
+        "dir": null,
+        "caption": "Monitoramento da supressão mecanizada em trecho da delimitação da nova cerca, mantendo-se inspeção das superfícies expostas durante o avanço do equipamento",
+        "created": 1794917073950,
+        "hashArquivo_sha256": "501ab1b8da3d4c861e3268606a99677bd13bf0f1294a2dcc37e1c07e7ec1164b",
+        "gpsFonte": "EXIF_JS",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": null,
+        "exifNativeModoLeitura": null,
+        "exifNativeData": null,
+        "exifNativeLat": null,
+        "exifNativeLon": null
+      },
+      {
+        "key": "MW2PNAHW_1794917073999_vmfk0swxg2l",
+        "recordId": "MW2PNAHW",
+        "filename": "IMG_3473.JPG.jpeg",
+        "dt": "2026:11:16 15:07:40",
+        "coords": [
+          -39.931061111111106,
+          -9.318002777777778
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 397750,
+          "northing": 8969855
+        },
+        "dir": null,
+        "caption": "Detalhe da exposição superficial de terreno e dos seixos (pouco rolados) após a retirada da vegetação superficial",
+        "created": 1794917073999,
+        "hashArquivo_sha256": "9a5176354419f897e871a3902614db9e7043419a58907974caecc91a25d35fc7",
+        "gpsFonte": "EXIF_JS",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": null,
+        "exifNativeModoLeitura": null,
+        "exifNativeData": null,
+        "exifNativeLat": null,
+        "exifNativeLon": null
+      },
+      {
+        "key": "MW2PNAHW_1794917074040_zpyyz1lgs2s",
+        "recordId": "MW2PNAHW",
+        "filename": "IMG_3474.JPG.jpeg",
+        "dt": "2026:11:16 15:08:02",
+        "coords": [
+          -39.931061111111106,
+          -9.318002777777778
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 397750,
+          "northing": 8969855
+        },
+        "dir": null,
+        "caption": "Continuidade da supressão ao longo do alinhamento demarcado para instalação da cerca, com exposição superficial de terreno pedregoso após a passagem do trator de esteiras",
+        "created": 1794917074040,
+        "hashArquivo_sha256": "8184aaed900c92768c55a964b8eccb88a83d46a871777ca988e7220693fac3ca",
+        "gpsFonte": "EXIF_JS",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": null,
+        "exifNativeModoLeitura": null,
+        "exifNativeData": null,
+        "exifNativeLat": null,
+        "exifNativeLon": null
+      }
+    ]
+  }
+}
